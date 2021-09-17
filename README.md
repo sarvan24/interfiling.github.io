@@ -22,7 +22,7 @@
 - Copy of COVID-19 vaccination record
 - Copy of biometrics receipt (if your biometrics status is not updated)
 - Copy of driver's license (specify state)
-- Cover letter, see formats below
+- Cover letter, see formats below (You can use one letter for each member or single letter for family. Trackitt users confirmed they both work!)
 - Barcodes page (if they are not printed on cover letter), [see format here](https://raw.githubusercontent.com/interfiling/interfiling.github.io/main/barcodes-letter.txt). 
  
 
