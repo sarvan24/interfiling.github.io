@@ -29,6 +29,7 @@
 ## For Creating Barcodes
 - Receipt number code: [https://barcode.tec-it.com/en/Code39FullASCII?data=MSC21090123456](https://barcode.tec-it.com/en/Code39FullASCII?data=MSC21090123456)
 - A-Number code: [https://barcode.tec-it.com/en/Code39FullASCII?data=A219123456](https://barcode.tec-it.com/en/Code39FullASCII?data=A219123456)
+- [barcode-generator.org](http://www.barcode-generator.org/) use code 39
 
 
 ## Cover Letter Example Formats
@@ -36,6 +37,7 @@
 - [I-485 Interfiling Medicals One Cover Letter for All format](https://raw.githubusercontent.com/interfiling/interfiling.github.io/main/I-485-Interfiling-Medicals-One-Cover-Letter-for-All.txt)
 - [Individual interfiling cover letter format](https://raw.githubusercontent.com/interfiling/interfiling.github.io/main/Individual-Cover-Letter.txt) Ref, trackitt forum See [post #1153](https://www.trackitt.com/usa-discussion-forums/i485-eb/2195323555/interfile-medicals-without-rfe-pd-current-with-eb3-june-bulletin/page/58)
 - [Barcodes Letter Format](https://raw.githubusercontent.com/interfiling/interfiling.github.io/main/barcodes-letter.txt)
+- [I-485 AOS Medicals Interfiling Cover Letter Template NBC.docx](https://github.com/interfiling/interfiling.github.io/blob/main/I-485%20AOS%20Medicals%20Interfiling%20Cover%20Letter%20Template%20NBC.docx)
 
 ## Medical Report Validity
 Form I-693 Submitted to USCIS On or After November 1, 2018. Ref [USCIS site](https://www.uscis.gov/policy-manual/volume-8-part-b-chapter-4)
