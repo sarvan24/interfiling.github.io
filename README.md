@@ -2,7 +2,7 @@
 
 # Interfiling Medical Exams for I-485 Process
 
-<font color=red>**Disclaimer:** This site is not a legal advice. There is no defined process for the interfiling. This site is created based on the feedback from immigration attorney, trackitt forum and Telegram groups.</font>
+<font color=red>**Disclaimer:** The information provided on this site is not a legal advice. There is no defined process for the interfiling. This site is created based on the feedback from immigration attorney, trackitt forum and Telegram groups.</font>
 
 
 ## Filing Process
@@ -25,7 +25,7 @@
 - Cover letter, see formats below (You can use one letter for each member or single letter for family. Trackitt users confirmed they both work!)
 - Barcodes page (if they are not printed on cover letter), [see format here](https://raw.githubusercontent.com/interfiling/interfiling.github.io/main/barcodes-letter.txt). 
  
-
+**Note:** Some people sent cover letter without barcodes and their medical is attached to their case. You must put I-485 receipt number and A number on cover letter. Some people also sent cover letter without barcodes and they attached separate barcodes page.
 ## For Creating Barcodes
 - Receipt number code: [https://barcode.tec-it.com/en/Code39FullASCII?data=MSC21090123456](https://barcode.tec-it.com/en/Code39FullASCII?data=MSC21090123456)
 - A-Number code: [https://barcode.tec-it.com/en/Code39FullASCII?data=A219123456](https://barcode.tec-it.com/en/Code39FullASCII?data=A219123456)
