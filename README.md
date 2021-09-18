@@ -8,7 +8,7 @@
 ## Filing Process
 - Complete medical and get sealed I-693 Medical Reports signed by the Civil Surgeon 
   - You need to send reports within 60 days to USCIS if you are filing with I-485. 
-  - If you already filed I-485 then you can send within 2 year, 60days rule dont apply here. See USCIS table on [this page](https://www.uscis.gov/policy-manual/volume-8-part-b-chapter-4). Also see [this video](https://www.youtube.com/watch?v=l0CIiX11Qrw) by immigration attorney Reddy.
+  - If you already filed I-485 then you can send within 2 year, 60 days rule don't apply here. See USCIS table on [this page](https://www.uscis.gov/policy-manual/volume-8-part-b-chapter-4). Also see [this video](https://www.youtube.com/watch?v=l0CIiX11Qrw) by immigration attorney Reddy.
 - Attach below required documents
 - Send packet to USCIS. 
   - Use single packet for primary and derivative.
@@ -76,9 +76,33 @@ I-693 validity: N/A – I-693 not valid at time applicant submits I-693 to USCIS
 
 **Q:** My PPD or blood test came positive for TB, what should I do?
 
-**A:** This is normal for many Asian people so dont worry. Your doctor will advice for x-ray test which can show negative for TB. 
+**A:** This is normal for many Asian people so don't worry. Your doctor will advice for x-ray test which can show negative for TB. 
 ##
 
+**Q:** I interfiled medical but now received RFE asking for the medical records, what should I do?
+
+**A:** Respond to RFE and send them another sealed I-693 Medical Reports signed by the Civil Surgeon. You can get multiple medical reports from your doctor, they may charge some fees for this.
+##
+
+**Q:** Do USCIS send receipt notice after interfiling?
+
+**A:** No. USCIS will not send receipt notice or any type of communication after they receive a medical record.
+##
+
+**Q:** How long it will take to attach medical record to my case?
+
+**A:** Once USCIS receives your package, it may take 2-5 days, but again it totally depends on the processing service center. Some service centers may take more time.
+##
+
+**Q:** How I will know if my medical is attached to my case or not?
+
+**A:** You may check by using EMMA chat or call USCIS.
+##
+
+**Q:** Does calling USCIS multiple times have any affect on the case?
+
+**A:** No, as per [these immigrations attorney](https://www.avvo.com/legal-answers/does-calling-uscis-multiple-times-have-any-affect--3773865.html). If your attorney suggests not to call USCIS then follow what they say.
+##
 
 ## References
 - [Cover Letter, post #574](https://www.trackitt.com/usa-discussion-forums/i485-eb/2195323555/interfile-medicals-without-rfe-pd-current-with%E2%80%A6/page/29 )
