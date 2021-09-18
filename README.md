@@ -101,7 +101,7 @@ I-693 validity: N/A – I-693 not valid at time applicant submits I-693 to USCIS
 
 **Q:** Does calling USCIS multiple times have any affect on the case?
 
-**A:** No, as per [these immigrations attorney](https://www.avvo.com/legal-answers/does-calling-uscis-multiple-times-have-any-affect--3773865.html). If your attorney suggests not to call USCIS then follow what they say.
+**A:** No, as per [these immigration attorneys](https://www.avvo.com/legal-answers/does-calling-uscis-multiple-times-have-any-affect--3773865.html). If your attorney suggests not to call USCIS then follow what they say.
 ##
 
 ## References
