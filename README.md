@@ -25,7 +25,12 @@
 - Cover letter, see formats below (You can use one letter for each member or single letter for family. Trackitt users confirmed they both work!)
 - Barcodes page (if they are not printed on cover letter), [see format here](https://raw.githubusercontent.com/interfiling/interfiling.github.io/main/barcodes-letter.txt). 
  
-**Note:** Some people sent cover letter without barcodes and their medical is attached to their case. You must put I-485 receipt number and A number on cover letter. Some people also sent cover letter without barcodes and they attached separate barcodes page.
+**Notes:** 
+- Some people sent cover letter without barcodes and their medical is attached to their case.  
+- Some people also sent cover letter without barcodes and they attached separate barcodes page.
+- and some people sent cover letter with barcodes on it and that also worked.
+- You must put I-485 receipt number and A number on cover letter.
+
 ## For Creating Barcodes
 - Receipt number code: [https://barcode.tec-it.com/en/Code39FullASCII?data=MSC21090123456](https://barcode.tec-it.com/en/Code39FullASCII?data=MSC21090123456)
 - A-Number code: [https://barcode.tec-it.com/en/Code39FullASCII?data=A219123456](https://barcode.tec-it.com/en/Code39FullASCII?data=A219123456)
