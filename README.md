@@ -9,6 +9,7 @@
 - Complete medical and get sealed I-693 Medical Reports signed by the Civil Surgeon 
   - You need to send reports within 60 days to USCIS if you are filing with I-485. 
   - If you already filed I-485 then you can send within 2 year, 60 days rule don't apply here. See USCIS table on [this page](https://www.uscis.gov/policy-manual/volume-8-part-b-chapter-4). Also see [this video](https://www.youtube.com/watch?v=l0CIiX11Qrw) by immigration attorney Reddy.
+  - Try to get two sealed I-693 Medical Reports signed by the Civil Surgeon, they may charge you some fees. One you can use for interfiling and other you can use in case if you get RFE. 
 - Attach below required documents
 - Send packet to USCIS. 
   - Use single packet for primary and derivative.
@@ -96,7 +97,7 @@ I-693 validity: N/A – I-693 not valid at time applicant submits I-693 to USCIS
 
 **Q:** How I will know if my medical is attached to my case or not?
 
-**A:** You may check by using EMMA chat or call USCIS.
+**A:** You may check by using EMMA chat or call USCIS. Contact number: +1-800-375-5283 and just say “infopass” to speak to an agent.
 ##
 
 **Q:** Does calling USCIS multiple times have any affect on the case?
